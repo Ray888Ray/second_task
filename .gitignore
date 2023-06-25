@@ -1,0 +1,5 @@
+/env
+/__pycache__
+*.dockerignore
+test_for_trainees/Dockerfile
+*.toml

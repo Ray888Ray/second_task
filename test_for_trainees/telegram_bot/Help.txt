@@ -1,0 +1,5 @@
+Use /image to create a images
+Use /text to create a texts
+Use /help command to see all commands
+
+WARNING: bot is in beta. Use /refresh if you have problems with bot.

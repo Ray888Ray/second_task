@@ -1,0 +1,4 @@
+Use /image to create a images
+Use /text to create a texts
+Use /help command to see all commands
+
